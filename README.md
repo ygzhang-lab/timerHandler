@@ -4,7 +4,7 @@ jQuery/Zepto timerHandler 定时器插件支持动态注册管理，支持已ms/
 timerHandler 支持 IE7+、Firefox、Safari、Chrome和Opera
 
 
-插件主页：[https://github.com/ygzhang-cn/timerHandler/](https://github.com/ygzhang-cn/timerHandler/)
+插件主页：[https://github.com/ygzhang-lab/timerHandler/](https://github.com/ygzhang-lab/timerHandler/)
 
 
 2014.7.12 插件入库
@@ -20,14 +20,14 @@ timerHandler 支持 IE7+、Firefox、Safari、Chrome和Opera
 ## 使用方法
 1、引入插件，传统方式页面引入
 
-示例：[使用 $.timerHandler 管理注册定时器](https://ygzhang-cn.github.io/timerHandler/demo/demo1.html)
+示例：[使用 $.timerHandler 管理注册定时器](https://ygzhang-lab.github.io/timerHandler/demo/demo1.html)
 
 
 2、AMD/CMD/Node方式加载
 
 使用 define Name/ exports module Name 管理注册定时器, 默认为 timerHandler
 
-示例：[使用 timerHandler 管理注册定时器](https://ygzhang-cn.github.io/timerHandler/demo/demo2.html)
+示例：[使用 timerHandler 管理注册定时器](https://ygzhang-lab.github.io/timerHandler/demo/demo2.html)
 
 3、接口方法
 注：定时器对象缓存数据注册在jQuery($)对象上 $.timerHandler
